@@ -1,0 +1,2 @@
+
+http://localhost:9002/api/v1/buckets/minio-k/objects/download?preview=true&prefix=0d3b8980cd5642831a727087046f93739716baf6657a9d672319a167bf06d995.jpg
